@@ -16,10 +16,16 @@ LVGL
 https://github.com/Seeed-Studio/Seeed_Arduino_RoundDisplay
 
 # Round Display library configuration
+
 Cut lv_conf.h from Seeed_Arduino_RoundDisplay and paste into libraries root
 Open User_Setup_Select.h and uncomment #include <User_Setups/Setup66_Seeed_XIAO_Round.h>  // Setup file for Seeed XIAO with GC9A01 240x240
 
 # Hour configuration
+
 Check UTC +1 hour at https://time.is/UTC+1 
 Configure inside .ino code uint8_t h = 13, m = 44, s = 40; before uploading.
+
+# Demo
+
+https://www.youtube.com/watch?v=FyPsmtE1eLw
 
