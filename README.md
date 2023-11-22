@@ -6,7 +6,7 @@ This clock calculates beats using a formula to display Internet Time.
 
 Seeed Studio Xiao nrf52840
 Seeed Studio Xiao TFT Round Display
-Helping Hands Soldering Station with 3X Magnifying Glass
+3d printed patrts https://cults3d.com/en/3d-model/gadget/xiao-round-display-tft-internet-time-stand (or Helping Hands Soldering Station with 3X Magnifying Glass as you can see in the demo video)
 
 # Libraries
 
